@@ -36,10 +36,10 @@ pip install -r requirements.txt
 
 1. **Creating the Dataset**:
     - Use `main_creating_dataset.ipynb` to create and label your dataset.
-2. **Training the Model**:
-    - Run `main_CNN_model.ipynb` to train the CNN model on your dataset.
-3. **Predicting Evacuation Routes**:
+2. **Predicting Evacuation Routes**:
     - Use `MarkovChainClass.py` to simulate evacuation routes based on the trained model.
+3. **Training the Model**:
+    - Run `main_CNN_model.ipynb` to train the CNN model on your dataset.
 
 ## Contributing
 
