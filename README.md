@@ -2,6 +2,10 @@
 
 This repository aims to provide a workflow and tools for emergency evacuation performance prediction of architectural floor plans. The key steps are modelling evacuation using the graph-representation of the floor plan and pre-evacuation using stochastic methods such as Markov Chain Monte Carlo simulations. Evac and pre-evac times are used to label floor plan images, on which two simple CNN architectures are trained to predict evacuation performance.
 
+** Project Report: ** https://issuu.com/tonymavr/docs/antonios_mavrotas_-_6047807_-_ciid_report
+![fig3](https://github.com/user-attachments/assets/c27b2752-0ae6-4858-a3e6-73679c0ff4e4)
+
+
 ## Dataset
 
 The Swiss Dwelling Dataset (SDDS) https://zenodo.org/records/7070952
