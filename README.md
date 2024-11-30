@@ -1,19 +1,10 @@
 # Fire Evacuation Prediction on Architectural Floor Plans
 
-This repository contains code and resources for predicting fire evacuation routes on architectural floor plans using machine learning techniques.
+This repository aims to provide a workflow and tools for emergency evacuation performance prediction of architectural floor plans. The key steps are modelling evacuation using the graph-representation of the floor plan and pre-evacuation using stochastic methods such as Markov Chain Monte Carlo simulations. Evac and pre-evac times are used to label floor plan images, on which two simple CNN architectures are trained to predict evacuation performance.
 
-## Table of Contents
+## Dataset
 
-- Introduction
-- Features
-- Installation
-- Usage
-- Contributing
-- License
-
-## Introduction
-
-The goal of this project is to develop a model that can predict the most efficient evacuation routes in case of a fire emergency. This can help in designing safer buildings and improving emergency response strategies.
+The Swiss Dwelling Dataset (SDDS) https://zenodo.org/records/7070952
 
 ## Features
 
